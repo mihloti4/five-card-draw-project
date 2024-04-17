@@ -29,10 +29,10 @@ In your bash terminal, run the shell script to compile and execute the program.
 ```bash
 ./run.sh
 Shuffling ... Shuffling ... Shuffling ...
-Your hand: 2♢ 5♡ 2♤ 3♧ 4♤ 
+Your hand: 3♡ 3♤ 7♡ K♢ A♧ 
 You have: One Pair
 
-Do you wish to draw again? Y/N >
+Do you wish to draw again? Y/N > 
 ```
 
 To run the Unit tests run the shell script with the -t flag.
