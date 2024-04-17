@@ -37,12 +37,9 @@ Do you wish to draw again? Y/N >
 
 To run the Unit tests run the shell script with the -t flag.
 
-##bash
+##bash to run the tests
 ./run.sh -t
-Running Tests ...
-Tests ran: 16
-Failed: 0
-```
+
 
 ##Structure**
 
