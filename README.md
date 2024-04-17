@@ -26,6 +26,8 @@ Program should be run in a bash terminal.
 ## Usage/Examples
 In your bash terminal, run the shell script to compile and execute the program.
 
+
+
 ```bash
 ./run.sh
 Shuffling ... Shuffling ... Shuffling ...
@@ -39,6 +41,8 @@ To run the Unit tests run the shell script with the -t flag.
 
 ##bash to run the tests
 ./run.sh -t
+
+
 
 
 ##Structure**
