@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5916cd2-d233-4751-88fe-25a4da58a285" name="Changes" comment="added run.sh file">
+    <list default="true" id="d5916cd2-d233-4751-88fe-25a4da58a285" name="Changes" comment="code clean">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/PlayerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/PlayerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/RankingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/RankingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/FiveHandPoker.jar" beforeDir="false" afterPath="$PROJECT_DIR$/output/FiveHandPoker.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1713372074910</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="code clean">
+      <created>1713373643313</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713373643313</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,7 +162,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added lib folder" />
     <MESSAGE value="added run.sh file" />
-    <option name="LAST_COMMIT_MESSAGE" value="added run.sh file" />
+    <MESSAGE value="code clean" />
+    <option name="LAST_COMMIT_MESSAGE" value="code clean" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/five_card_draw_project$TestRunner.ic" NAME="TestRunner Coverage Results" MODIFIED="1713367942234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
