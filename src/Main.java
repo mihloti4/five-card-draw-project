@@ -20,11 +20,11 @@ public class Main {
 
             System.out.println();
             System.out.print("Do you wish to draw again? Y/N > ");
-           // confirm = sc.nextLine();
+            confirm = sc.nextLine();
 
-//            if(!confirm.toLowerCase().equals("y") && !confirm.toLowerCase().equals("yes")){
-//                playAgain = false;
-//            }
+            if(!confirm.toLowerCase().equals("y") && !confirm.toLowerCase().equals("yes")){
+                playAgain = false;
+            }
 
         }
 
