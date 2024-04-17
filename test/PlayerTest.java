@@ -3,7 +3,6 @@ import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
 public class PlayerTest {
-
     @Test
     public void testPlayerInstantiation(){
         Player testPlayer = new Player(5);
@@ -24,5 +23,4 @@ public class PlayerTest {
         testPlayer.drawCards();
 
         assertEquals(String.class, testPlayer.evaluate().getClass());
-    }
-}
+    }}
