@@ -52,7 +52,7 @@ Five-card-draw-project
 │   .gitignore     
 │   run.sh                      //script to compile and run program, run with -t flag for tests
 |
-└─── external libraries                        //contains jar executables to aid in running tests with JUnit and 
+└─── external libraries        //contains jar executables to aid in running tests with JUnit and 
 │   |      
 |   |   junit-4.8.1.jar
 │   |   hamcrest-core-1.3.jar
